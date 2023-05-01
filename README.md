@@ -10,7 +10,6 @@ The website is organized into categories, including Programming Languages, Web D
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/123671653/235503882-f7267d07-459c-43f4-a56a-8c4642778bb0.png)
 
-![Screenshot (17)](https://user-images.githubusercontent.com/123671653/235504704-6c52cc24-61a7-43d6-b780-e2f9d07d10bf.png)
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/123671653/235504745-02c55a01-f5b9-4948-905c-930ba6c35cab.png)
 
