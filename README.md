@@ -1,5 +1,6 @@
 # CodeHub
 Coding Resources Website
+
 This is a coding resource website that provides links to various resources for learning to code. The website is built using HTML, CSS, and JavaScript, and includes a simple, easy-to-use design that allows users to quickly find the resources they need.
 
 To use the website, simply open the index.html file in your web browser. You can also view the website in action by visiting the live demo.
